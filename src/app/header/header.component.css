@@ -1,0 +1,28 @@
+header {
+  background-color: #FEFCE9;
+}
+
+#menu {
+  background-color: #434343;
+}
+
+#menu>ul>li a {
+  color: #EEEEEE;
+  font-weight: bold;
+}
+
+#personal-logo img {
+  width: 240px;
+}
+
+.nav-item {
+  margin-right: 3rem;
+}
+
+.nav-item:last-child {
+  margin-right: 0;
+}
+
+.active {
+  color: #DBD178 !important;
+}
